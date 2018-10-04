@@ -1,30 +1,31 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: September 30, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I am no stranger to coding or programming. I even have a CS degree. I have been coding for more than 10 years. However, I had never had the chance to dive deep into one specific language; javascript.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+And that's the only language I really want to be good at.
 
-**Link to work:** [Calculator App](http://www.example.com)
+I am no stranger to coding in javascript either. I have taken the javascript course from Codeacademy, played around with it and have even written plenty of code in jQuery.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+However, I don't know how to select an element with vanilla javascript. Or how closures work and why are they so useful. Or why scope is so tricky. And don't even get me started with `this`.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+So I figured out that #100DaysOfCode would provide me the two things that kept me from seriously learning javascript; **consistency** and **accountability**.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: October 1, Monday
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Started the book Javascript: the good parts. Finished the Objects chapter.
 
+**Thoughts:** I think this book will provide me a solid refresher about javascript and its core concepts.
 
-### Day 1: June 27, Monday
+### Day 2: October 2, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Halfway through the Functions chapter of 'Javascript: The Good Parts'. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** I always try the code and then play around with it. I'm trying to spend as much time on the editor as possible.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 3: October 3, Wednesday
+
+**Today's Progress**: Went through functions invocation and scope.
+
+**Thoughts:** Could have gone through more, but I ran out of time. Under other circumstances, maybe I would quit again. But no, not this time. 
