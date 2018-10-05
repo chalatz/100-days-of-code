@@ -29,3 +29,9 @@ So I figured out that #100DaysOfCode would provide me the two things that kept m
 **Today's Progress**: Went through functions invocation and scope.
 
 **Thoughts:** Could have gone through more, but I ran out of time. Under other circumstances, maybe I would quit again. But no, not this time. 
+
+### Day 4: October 5, Thursday
+
+**Today's Progress**: Almost finished with the functions chapter. I will leave Memoization.
+
+**Thoughts:** Invaluable info about closures and modules. I am starting to get a better grasp on them. Also, muscle memory has started to take affect as I practice more and more on the editor.
