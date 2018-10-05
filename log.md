@@ -30,7 +30,7 @@ So I figured out that #100DaysOfCode would provide me the two things that kept m
 
 **Thoughts:** Could have gone through more, but I ran out of time. Under other circumstances, maybe I would quit again. But no, not this time. 
 
-### Day 4: October 5, Thursday
+### Day 4: October 4, Thursday
 
 **Today's Progress**: Almost finished with the functions chapter. I will leave Memoization.
 
