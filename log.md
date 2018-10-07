@@ -35,3 +35,9 @@ So I figured out that #100DaysOfCode would provide me the two things that kept m
 **Today's Progress**: Almost finished with the functions chapter. I will leave Memoization.
 
 **Thoughts:** Invaluable info about closures and modules. I am starting to get a better grasp on them. Also, muscle memory has started to take affect as I practice more and more on the editor.
+
+### Day 5: October 7, Sunday
+
+**Today's Progress**: Read about memoization and inheritance.
+
+**Thoughts:** The chapter about inheritance provided a solid theoritical base. I suppose the topic will make better sense once I start writing code for practical examples.
