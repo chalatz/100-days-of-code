@@ -41,3 +41,9 @@ So I figured out that #100DaysOfCode would provide me the two things that kept m
 **Today's Progress**: Read about memoization and inheritance.
 
 **Thoughts:** The chapter about inheritance provided a solid theoritical base. I suppose the topic will make better sense once I start writing code for practical examples.
+
+### Day 6: October 8, Monday
+
+**Today's Progress**: Read about javascript's awful and bad parts.
+
+**Thoughts:** Godd to know what to avoid in javascript. The book also features arrays, regular expressions and methods. I believe regular expressions are outside of my goals for now. As for the other chapters, they act more like references, so I think I can skip them. Besides, when in need of an array functionality or method, I can always look it up at that time. So I am done with 'Javascript: the Good parts' for now.
