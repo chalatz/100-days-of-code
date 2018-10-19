@@ -46,4 +46,10 @@ So I figured out that #100DaysOfCode would provide me the two things that kept m
 
 **Today's Progress**: Read about javascript's awful and bad parts.
 
-**Thoughts:** Godd to know what to avoid in javascript. The book also features arrays, regular expressions and methods. I believe regular expressions are outside of my goals for now. As for the other chapters, they act more like references, so I think I can skip them. Besides, when in need of an array functionality or method, I can always look it up at that time. So I am done with 'Javascript: the Good parts' for now.
+**Thoughts:** Good to know what to avoid in javascript. The book also features arrays, regular expressions and methods. I believe regular expressions are outside of my goals for now. As for the other chapters, they act more like references, so I think I can skip them. Besides, when in need of an array functionality or method, I can always look it up at that time. So I am done with 'Javascript: the Good parts' for now.
+
+### Day 7: October 9, Tuesday
+
+**Today's Progress**: Started the javascript course of [The Odin Project](https://www.theodinproject.com/)
+
+**Thoughts:** I think The Odin Project is a good place to continue. I will be taking the [Javascript course](https://www.theodinproject.com/courses/javascript), but as suggested I will follow the [front end section ](https://www.theodinproject.com/courses/web-development-101#section-the-front-end) of Web Development 101.
