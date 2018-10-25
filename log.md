@@ -53,3 +53,9 @@ So I figured out that #100DaysOfCode would provide me the two things that kept m
 **Today's Progress**: Started the javascript course of [The Odin Project](https://www.theodinproject.com/)
 
 **Thoughts:** I think The Odin Project is a good place to continue. I will be taking the [Javascript course](https://www.theodinproject.com/courses/javascript), but as suggested I will follow the [front end section ](https://www.theodinproject.com/courses/web-development-101#section-the-front-end) of Web Development 101, first.
+
+### Day 8: October 25, Thursday
+
+**Today's Progress**: Continueing with JS fundamentals of [The Odin Project](https://www.theodinproject.com/)
+
+**Thoughts:** I think I have a good grasp on JS fundamentals, but I have decided to go through them nonetheless. A good refresher, plus there are some points here and there that I had not paid much attention to.
