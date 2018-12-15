@@ -56,6 +56,6 @@ So I figured out that #100DaysOfCode would provide me the two things that kept m
 
 ### Day 8: October 25, Thursday
 
-**Today's Progress**: Continueing with JS fundamentals of [The Odin Project](https://www.theodinproject.com/)
+**Today's Progress**: Continuing with JS fundamentals of [The Odin Project](https://www.theodinproject.com/)
 
 **Thoughts:** I think I have a good grasp on JS fundamentals, but I have decided to go through them nonetheless. A good refresher, plus there are some points here and there that I had not paid much attention to.
